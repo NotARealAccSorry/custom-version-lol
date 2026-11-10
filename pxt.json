@@ -1,0 +1,52 @@
+{
+    "name": "custom version lol",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "game---light": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tiles.ts",
+        "custom.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "browserEventsWorking.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "stable4.1",
+        "tag": "v4.1.27",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/401d844a09f01717919937e218e14e9cea9fa83a",
+        "target": "4.1.27",
+        "pxt": "13.1.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#EFD0AE",
+        "#F6D937",
+        "#F8A153",
+        "#EF6361",
+        "#C7555E",
+        "#501733",
+        "#71323C",
+        "#975E5E",
+        "#755B6C",
+        "#808FAA",
+        "#C4BBB8",
+        "#74A8A2",
+        "#186F5E",
+        "#46A45F",
+        "#88AF92"
+    ]
+}
